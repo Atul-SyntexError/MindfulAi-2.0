@@ -307,3 +307,6 @@ MIT License — see [LICENSE](LICENSE) for details.
 <div align="center">
   <sub>Built with 💜 using Streamlit + Groq</sub>
 </div>
+<div align="center">
+  <sub>Copyright (c) Prince Atul</sub>
+</div>
